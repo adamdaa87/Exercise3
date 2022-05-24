@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WindowWidth = 110;
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("*****************************************************************");
             Console.WriteLine("* Hej, det här ett litet program som hjälper att skapa personer *");
