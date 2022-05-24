@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inkapsling", "Inkapsling\Inkapsling.csproj", "{390E57B5-5E3D-4E6E-B9CA-08BE6FC2CDDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorfism", "Polymorfism\Polymorfism.csproj", "{471CAE0A-38E2-4C53-AC37-DF55EC703966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv", "Arv\Arv.csproj", "{CD5385BE-4534-41E5-B88B-93060BBC1D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390E57B5-5E3D-4E6E-B9CA-08BE6FC2CDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390E57B5-5E3D-4E6E-B9CA-08BE6FC2CDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390E57B5-5E3D-4E6E-B9CA-08BE6FC2CDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390E57B5-5E3D-4E6E-B9CA-08BE6FC2CDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471CAE0A-38E2-4C53-AC37-DF55EC703966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471CAE0A-38E2-4C53-AC37-DF55EC703966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471CAE0A-38E2-4C53-AC37-DF55EC703966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471CAE0A-38E2-4C53-AC37-DF55EC703966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5385BE-4534-41E5-B88B-93060BBC1D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5385BE-4534-41E5-B88B-93060BBC1D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5385BE-4534-41E5-B88B-93060BBC1D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5385BE-4534-41E5-B88B-93060BBC1D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E68A4206-AA5D-4E9C-8E6D-628D642F6A1D}
+	EndGlobalSection
+EndGlobal
